@@ -1,6 +1,6 @@
 ---
 title: "Parent Edition"
-bg: blue2  #defined in _config.yml, can use html color like '#0fbfcf'
+bg: blue1  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
 fa-icon: users
 ---

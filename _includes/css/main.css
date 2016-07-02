@@ -355,3 +355,15 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
+/* WW additional tweaks */
+
+.circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(img/youmatter-icon.png) no-repeat;
+	margin:auto
+	}
