@@ -7,7 +7,7 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+permalink : /:title  ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
@@ -27,15 +27,15 @@ google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
-  white:     '#f8f8f8'
+  white:     '#FFFFFF'
   blue:      '#49a7e9'
   green:     '#000080'
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
-  blue1:     '#F1F8FF'
+  blue1:     '#5AA9FF'
   blue2:     '#29A5D5'
   blue3:     '#3EA7E3'
   blue4:     '#176DAE'
-  yellow:    '#29A5D5'
+  yellow:    '#FFD217'
   

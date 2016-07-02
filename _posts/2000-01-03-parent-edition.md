@@ -2,7 +2,7 @@
 title: "Parent Edition"
 bg: blue2  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
-fa-icon: paint-brush
+fa-icon: users
 ---
 
 A course that brings together parents of children with significant speech difficulties and their supporting professionals

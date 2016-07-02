@@ -1,8 +1,8 @@
 ---
 title: "Education Edition"
-bg: blue1  #defined in _config.yml, can use html color like '#0fbfcf'
+bg: yellow  #defined in _config.yml, can use html color like '#0fbfcf'
 color: black   #text color
-fa-icon: paint-brush
+fa-icon: graduation-cap
 ---
 
 ## A one day course for educational staff in using aided communication
