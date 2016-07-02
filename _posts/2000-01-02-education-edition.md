@@ -1,6 +1,6 @@
 ---
 title: "Education Edition"
-bg: yellow  #defined in _config.yml, can use html color like '#0fbfcf'
+bg: blue4  #defined in _config.yml, can use html color like '#0fbfcf'
 color: black   #text color
 fa-icon: graduation-cap
 ---
