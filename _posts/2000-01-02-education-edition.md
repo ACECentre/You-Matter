@@ -1,7 +1,7 @@
 ---
 title: "Education Edition"
-bg: blue2  #defined in _config.yml, can use html color like '#0fbfcf'
-color: white   #text color
+bg: blue1  #defined in _config.yml, can use html color like '#0fbfcf'
+color: black   #text color
 fa-icon: paint-brush
 ---
 
