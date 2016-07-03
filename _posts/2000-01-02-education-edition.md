@@ -2,9 +2,8 @@
 title: "Education Edition"
 bg: blue4  #defined in _config.yml, can use html color like '#0fbfcf'
 color: black   #text color
+fa-icon: graduation-cap
 ---
-### AAC Training for Education Staff
-{: .text-blue}
 
 ## A one day course for educational staff in using aided communication
 You Matter Education Edition aims to support and empower professionals working with children whouse aided communication (Augmentative and Alternative Communication).
