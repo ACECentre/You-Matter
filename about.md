@@ -1,13 +1,13 @@
 ---
+layout: theme
 title: "About"
+permalink: /
 bg: bluebg  #defined in _config.yml, can use html color like '#0fbfcf'
 color: black   #text color
 ---
 
 ### AAC Training for Education and Families
 {: .text-blue}
-
-<div class="circular"><img src="img/youmatter-icon.png" alt=""/></div>
 
 You Matter is a set of two training courses that are designed to support and empower those around children who are using aided communication (Augmentative and Alternative Communication).  
 

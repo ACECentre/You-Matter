@@ -4,13 +4,34 @@ port: 4000
 host: 0.0.0.0
 safe: false
 
+itle: Getting Started with AAC
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+analytics_key: ''
+
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+theme: aacinfo-theme
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
 permalink : /:title  ## disables post output
 timezone: null
 lsi: false
-markdown: kramdown
 highlighter: rouge
 
 
@@ -22,6 +43,7 @@ source_link: "https://github.com/ACECentre/You-Matter"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  "img/youmatter-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+header_image:       'img/youmatter-icon.png'
 
 
 ### template colors, used site-wide via css ###

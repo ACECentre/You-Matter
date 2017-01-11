@@ -1,4 +1,5 @@
 ---
+layout: theme
 title: "Education Edition"
 bg: blue4  #defined in _config.yml, can use html color like '#0fbfcf'
 color: black   #text color
