@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    <meta charset="utf-8" />
+    <title>You Matter</title>
+    
+
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap-theme.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.5.4/bootstrap-select.min.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/draganddrop.css" type="text/css" />
+    <style>
+      ul,	li{ list-style:none; }
+    </style>
+
+
+    <!-- JS (load angular, ui-router, and our custom js file) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    
+    <!-- DIRECTIVES -->
+
+    <script type="text/javascript">
+      $(document).ready(function () {
+
+        $("#nav a.menu_res").click(function (e) {
+            e.preventDefault();
+
+            if($("#nav").find('.activemenu').length > 0){
+                $(".nav_inner").css("left","-200px");
+                $(this).removeClass("activemenu");
+            } else {
+                $(".nav_inner").css("left","0");
+                $(this).addClass("activemenu");
+            }
+            $(".nav_inner").addClass("done");
+            $("body").addClass("bigsize");
+
+        });
+    });
+    </script>
+</head>
+
+    <!-- apply our angular app to our site -->
+    <body id="appBody">
+        <div id="header">
+    <div class="container">
+        <div class="logo">
+            <a href="/">
+            
+              <img src="assets/images/logo-1.png" width="200px" alt="site logo" />
+            
+            </a>
+        </div>
+        <div id="nav">
+            <a class="menu_res"><span></span><span></span><span></span></a>
+            <div class="nav_inner clearfix">
+                <ul>
+                    
+                    
+                    
+
+                        
+                        <li class=""><a href="/">AAC Training for Education and Families</a></li>
+                        
+                    
+                    
+                    
+                    
+                    
+
+                        
+                        <li class=" active"><a href="/education-edition">AAC Training for Education and Families</a></li>
+                        
+                    
+                    
+                    
+                    
+                    
+
+                        
+                        <li class=""><a href="/parent-edition">AAC Training for Education and Families</a></li>
+                        
+                    
+                    
+                    
+
+                        
+                        <li class=""><a href="/purchase">Purchase</a></li>
+                        
+                    
+                    
+                    
+
+                        
+                        <li class=""><a href="/reviews">Reviews</a></li>
+                        
+                    
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+        <div id="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-2 col-md-2 col-sm-2 col-xs-2"></div>
+                    <div class="col-8 col-md-8 col-sm-8 col-xs-8">
+                        <div class="rightbar">
+                            <div class="top_c">
+                                <h2 id="a-one-day-course-for-educational-staff-in-using-aided-communication">A one day course for educational staff in using aided communication</h2>
+<p>You Matter Education Edition aims to support and empower professionals working with children who use aided communication (Augmentative and Alternative Communication).
+This includes children who use communication aids and children who use symbol-based communication books and charts.</p>
+
+<p>Course Learning Outcomes:</p>
+
+<ul>
+  <li>Awareness of the benefits of aided communication</li>
+  <li>Be able to identify the aided communication stage of children in your class</li>
+  <li>Select appropriate vocabulary for the five stages of aided communication</li>
+  <li>Become an effective aided communication partner</li>
+  <li>Be able to set targets</li>
+</ul>
+
+<p>The course provides practical guidance on how education staff can become effective communication partners to support a child using aided communication to communicate, participate and learn within the classroom and beyond.</p>
+
+<h2 id="whats-included">What’s Included</h2>
+
+<ul>
+  <li>Printed Tutor Guide</li>
+  <li>USB stick with Powerpoint presentation and handout version of the Powerpoint</li>
+  <li>Tutor’s copy of the Resource Pack</li>
+  <li>Ten copies of the Resource Pack</li>
+</ul>
+
+<p>Additional copies of the Resource Pack can be purchased in bundles of 1, 5 or 10.
+Note that each course participant will require their own Resource Pack.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-2 col-md-2 col-sm-2 col-xs-2"></div>
+                    <div class="ace_logo"><a href="#"><img src="/assets/images/logo-2.png" alt=""></a></div>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+    <div class="container">
+        <div class="f_links">
+            <ul class="clearfix">
+                <li><a href="/privacy">Privacy Policy</a></li>
+            </ul>
+        </div>
+        <div class="social">
+            <ul class="clearfix">
+                <li><a href="http://www.facebook.com/ACECentre.uk"><span class="fa fa-facebook"></span></a></li>
+                <li><a href="http://twitter.com/ACEcentre"><span class="fa fa-twitter"></span></a></li>
+            </ul>
+        </div>
+        <p></p>
+    </div>
+</div>
+
+        
+    </body>
+</html>
