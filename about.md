@@ -17,9 +17,9 @@ You Matter is a set of two training courses that are designed to support and emp
 >“A brilliant course! Should be available to all parents, carers and teaching assistants involved with AAC”
 *Course Participant*
 
-You Matter [Parent Edition](/parent-edition/) is a two day (or eight session) course that brings together families and professionals on an equal footing in order to identify practical and positive ways forward to meet children’s aided communication needs.
+You Matter [Parent Edition](/parent-edition) is a two day (or eight session) course that brings together families and professionals on an equal footing in order to identify practical and positive ways forward to meet children’s aided communication needs.
 
-You Matter [Education Edition](/education-edition/) is a one day course that is designed to be delivered to education staff who work with children who use aided communication.
+You Matter [Education Edition](/education-edition) is a one day course that is designed to be delivered to education staff who work with children who use aided communication.
 
 The You Matter courses are designed to be delivered by professionals that are experienced in the field.  The course packs contain everything needed to run a successful course, from the course Powerpoint which is full of video examples, detailed notes on delivery, to the handouts.
 
