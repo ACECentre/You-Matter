@@ -1,12 +1,12 @@
 ---
-title: AAC Training for Education and Families
-permalink: "/parent-edition"
-seo-title: Parent Edition | You Matter - Ace Centre
-description: A course that brings together parents of children with significant speech
-  difficulties and their supporting professionals
 layout: theme
+title: AAC Training for Education and Families
+seo-title: Parent Edition | You Matter - Ace Centre
+description: >-
+  A course that brings together parents of children with significant speech
+  difficulties and their supporting professionals
+date: 2018-01-03T00:00:00+00:00
 ---
-
 A course that brings together parents of children with significant speech difficulties and their supporting professionals
 You Matter Parent Edition aims to support and empower parents and professionals caring for children who use aided communication (Augmentative and Alternative Communication). This includes children who use communication aids and children who use symbol-based communication books or charts.
 
@@ -22,10 +22,11 @@ Between days one and two, course tutors are encouraged to visit the families at 
 An optional half day session is suggested that addresses any technical issues that parents and / or supporting professionals may find beneficial to help them move forwards.  For example, a half day session might be scheduled to address use of resource making software.
 
 ## Why the course matters:
+
 * Provides parental confidence Parental confidence, a key recommendation from the Lamb Inquiry (2009), reduces animosity between parents and health or school professionals. You Matter is invaluable for providing more realistic expectations for parents, reducing requests for tribunals and out of county placements
 * Provides parental ownership You Matter gives parents the skills and the understanding to effectively take ownership of aspects of their child’s communication, reducing the burden and minimising funding for the supporting professionals.
 * Integrates into educational objectives You Matter outcomes can be integrated into long-term objectives and short-term targets for children with a statement of special education needs.
-* Fulfils government initiatives You Matter training supports the Early Intervention agenda and is in line with principles of the Early Support Programme, such as family centred working, informed choice and early intervention
+* Fulfils government initiatives You Matter training supports the Early Intervention agenda and is in line with principles of the Early Support Programme, such as family centred working, informed choice and early intervention.
 
 ## What’s Included
 
