@@ -1,6 +1,7 @@
 ---
 layout: title-page
 title: AAC Training for Education and Families
+permalink: "/"
 seo-title: AAC Training for Education and Families | You Matter - Ace Centre
 description: >-
   The training programme for Families and Education staff supporting children
