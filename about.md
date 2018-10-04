@@ -1,19 +1,18 @@
 ---
 layout: title-page
 title: AAC Training for Education and Families
-permalink: "/"
 seo-title: AAC Training for Education and Families | You Matter - Ace Centre
 description: >-
   The training programme for Families and Education staff supporting children
   using AAC
-date: 2018-01-26T00:00:00+00:00
+date: 2018-01-26T00:00:00.000Z
 ---
 You Matter is a set of two training courses that are designed to support and empower those around children who are using aided communication (Augmentative and Alternative Communication).
 
 > “A brilliant course! Should be available to all parents, carers and teaching assistants involved with AAC”
 > _Course Participant_
 
-You Matter [ Family Edition](/parent-edition/) is a two day (or eight session) course that brings together families and professionals on an equal footing in order to identify practical and positive ways forward to meet children’s aided communication needs.
+You Matter  [Family Edition](https://you-matter.org.uk/family-edition) is a two day (or eight session) course that brings together families and professionals on an equal footing in order to identify practical and positive ways forward to meet children’s aided communication needs.
 
 You Matter [Education Edition](/education-edition/) is a one day course that is designed to be delivered to education staff who work with children who use aided communication.
 
