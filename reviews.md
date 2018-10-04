@@ -1,13 +1,12 @@
 ---
-title: Reviews
-permalink: "/reviews"
-seo-title: Reviews | You Matter - Ace Centre
-description: What people say about You Matter. Testimonials and feedback form parents,
-  tutors and others.
 layout: theme
+title: Reviews
+seo-title: Reviews | You Matter - Ace Centre
+description: >-
+  What people say about You Matter. Testimonials and feedback form parents,
+  tutors and others.
+date: '2018-01-26T00:00:00+00:00'
 ---
-
-
 <blockquote>
 <p>“All the staff who helped run the course came away with a huge feeling of satisfaction that we had really made a difference and helped these parents on their respective journeys with AAC” - tutor feedback</p>
 </blockquote>
@@ -29,5 +28,5 @@ layout: theme
 </blockquote>
 
 <blockquote>
-<p>“Wonderful view of how to proceed with new found goals and info!” – parent fefedback</p>
+<p>“Wonderful view of how to proceed with new found goals and info!” – parent feedback</p>
 </blockquote>
